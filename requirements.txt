@@ -1,0 +1,6 @@
+firecrawl==0.1.0  # Firecrawl API library for property extraction
+groq==0.1.0  # Groq API library for Llama model
+pydantic==1.10.7  # For data validation with Pydantic models
+streamlit==1.20.0  # Streamlit for web application
+python-dotenv==1.0.0  # For loading environment variables from .env files
+requests==2.28.1  # HTTP library for sending API requests
